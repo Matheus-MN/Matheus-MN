@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá, eu sou o Matheus Marinho!
+# 👋 Olá, eu sou o Matheus Marinho Nascimento!
 
 💻 Estudante de Engenharia de Software
 🤖 Focado em Inteligência Artificial & Ciência de Dados
