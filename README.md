@@ -2,8 +2,9 @@
 
 # 👋 Olá, eu sou o Matheus Marinho Nascimento!
 
-💻 Estudante de Engenharia de Software
-🤖 Focado em Inteligência Artificial & Ciência de Dados
+💻 Estudante de Engenharia de Software (UNDB)
+🤖 Desenvolvedor Back-end & Inteligência Artificial (Machine Learning)
+🚀 Buscando Oportunidades de Estágio em Tecnologia
 📍 São Luís - MA, Brasil
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-marinho-n-661813250)
@@ -15,39 +16,31 @@
 
 ## 🧠 Resumo Profissional
 
-Sou estudante de Engenharia de Software com foco em Inteligência Artificial, Visão Computacional e Ciência de Dados. Tenho experiência acadêmica em desenvolvimento de software, modelagem de sistemas, realidade virtual e projetos relacionados à segurança da informação. Busco oportunidades para aplicar e expandir meus conhecimentos em IA, Machine Learning e desenvolvimento de soluções tecnológicas inovadoras.
+Sou estudante de Engenharia de Software com foco em desenvolvimento Back-end, Inteligência Artificial e Machine Learning. Tenho experiência prática no desenvolvimento de projetos acadêmicos e pessoais utilizando Python e SQL para a construção de soluções inteligentes, tratamento de dados e automação de processos. 
+
+Busco constantemente aplicar conceitos sólidos de Engenharia de Software, arquitetura de sistemas e algoritmos para resolver desafios reais. Atualmente, estou em busca da minha primeira oportunidade como **Estagiário em Tecnologia**, pronto para contribuir com times de alta performance e evoluir no desenvolvimento de software de mercado.
 
 ---
 
 ## 🎯 Principais Áreas de Interesse
 
-### 🤖 Inteligência Artificial
-- Machine Learning
-- Deep Learning
-- IA Generativa
-- Visão Computacional
-- Prompt Engineering
-- Automação Inteligente
-
-### 📊 Ciência de Dados
-- Análise de Dados
-- Visualização de Dados
-- Estatística Aplicada
-- Processamento de Dados
+### 🤖 Inteligência Artificial & Dados
+- Machine Learning & Deep Learning
+- IA Generativa & Prompt Engineering
+- Visão Computacional (OpenCV)
+- Ciência e Análise de Dados (Pandas, NumPy, Power BI)
 
 ### ⚙️ Engenharia de Software
-- Desenvolvimento Backend
-- Programação Orientada a Objetos
-- Arquitetura de Software
-- APIs
-- Banco de Dados
+- Desenvolvimento Back-end (Python)
+- Modelagem de Banco de Dados (SQL / MySQL)
+- Programação Orientada a Objetos (POO) & Estrutura de Dados
+- Arquitetura de Software & Integração de APIs
+- Metodologias Ágeis (Scrum/Kanban)
 
-### 🔒 Segurança da Informação (Conhecimentos Fundamentais)
-- Princípios de Segurança da Informação
-- Gestão de Riscos
-- LGPD
+### 🔒 Segurança da Informação (Fundamentos)
+- Princípios de Cybersecurity & Gestão de Riscos
 - Fundamentos das normas ISO 27001, 27002 e 27005
-- Conceitos básicos de Cybersecurity
+- Conformidade com a LGPD
 
 ---
 
@@ -56,6 +49,7 @@ Sou estudante de Engenharia de Software com foco em Inteligência Artificial, Vi
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
@@ -65,7 +59,6 @@ Sou estudante de Engenharia de Software com foco em Inteligência Artificial, Vi
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
